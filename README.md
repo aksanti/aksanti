@@ -1,4 +1,4 @@
-### Hi, Am Aksanti 👋
+### Hi👋, I'm Aksanti. 
 
 <!--
 **aksanti/aksanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
